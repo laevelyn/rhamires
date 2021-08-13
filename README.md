@@ -1,8 +1,9 @@
 ## Olá, eu sou Pedro Hacks
 
-- 🔭 Futuro fullstack
-- 🌱 Estudando Python
 
+- 🔭 Futuro fullstack
+- Estudando Javascript
+- Estudando Python 🌱
 
  <div>
   <a href="https://github.com/rhamires">
